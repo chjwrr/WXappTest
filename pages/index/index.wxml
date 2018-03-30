@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class='viewClass'>
+  <image class='wxHeadImage' src="{{userInfo.avatarUrl}}" background-size="cover" />
+  <text bindtap='viewTestClick'>viewTest</text>
+  <text class='marginTopClass' bindtap='textTestClick'>textTest</text>
+</view>

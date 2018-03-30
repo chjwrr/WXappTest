@@ -1,0 +1,8 @@
+<!--pages/textTest/textTest.wxml-->
+<view class='viewClass'>
+  <text class='textClass1'>这是一行文字</text>
+  <text class='textClass2'>这是一行文字</text>
+  <text class='textClass3'>这是一行文字</text>
+  <text class='textClass4'>这是一行文字</text>
+  <text class='textClass5'>这是一行文字</text>
+</view>

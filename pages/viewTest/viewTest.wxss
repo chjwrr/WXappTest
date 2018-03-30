@@ -1,0 +1,84 @@
+/* pages/viewTest/viewTest.wxss */
+
+.viewClass {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.viewClass1 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  border-width: 2px;
+  border-color: blue;
+  border-style: solid;
+}
+.viewClass2 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  border-width: 2px;
+  border-color: blue;
+  border-style: dashed;
+  margin-left: 10px;
+}
+.viewClass3 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  border-width: 2px;
+  border-color: blue;
+  border-style: dotted;
+  margin-left: 10px;
+}
+.viewClass4 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  border-width: 2px;
+  border-color: blue;
+  border-style: double;
+  margin-left: 10px;
+}
+
+.view1Class {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.viewClass5 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+  outline-width: 3px;
+  outline-color: purple;
+  outline-style: solid;
+}
+.viewClass6 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+  outline-width: 3px;
+  outline-color: purple;
+  outline-style: solid;
+}
+.viewClass7 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+  outline-width: 3px;
+  outline-color: purple;
+  outline-style: solid;
+}
+.viewClass8 {
+  background-color: red;
+  width: 60px;
+  height: 60px;
+  margin-left: 10px;
+  outline-width: 3px;
+  outline-color: purple;
+  outline-style: solid;
+}

@@ -1,0 +1,12 @@
+.viewClass {
+  display: flex;
+  flex-direction: column;
+}
+.wxHeadImage {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.marginTopClass {
+  margin-top: 10px;
+}

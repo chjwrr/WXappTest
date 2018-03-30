@@ -1,0 +1,17 @@
+<!--pages/viewTest/viewTest.wxml-->
+<view>
+<text>边框</text>
+  <view class='viewClass'>
+    <view class='viewClass1' />
+    <view class='viewClass2' />
+    <view class='viewClass3' />
+    <view class='viewClass4' />
+  </view>
+  <text>轮廓（外边框）</text>
+  <view class='view1Class'>
+    <view class='viewClass5' />
+    <view class='viewClass6' />
+    <view class='viewClass7' />
+    <view class='viewClass8' />
+  </view>
+</view>
