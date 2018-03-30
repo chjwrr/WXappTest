@@ -58,5 +58,11 @@ Page({
     wx.navigateTo({
       url: '../textTest/textTest',
     })
+  },
+  // scrollView test
+  scrollViewTestClick: function (){
+    wx.navigateTo({
+      url: '../scrollViewTest/scrollViewTest',
+    })
   }
 })

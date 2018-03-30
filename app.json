@@ -2,7 +2,8 @@
   "pages":[
     "pages/index/index",
     "pages/viewTest/viewTest",
-    "pages/textTest/textTest"
+    "pages/textTest/textTest",
+    "pages/scrollViewTest/scrollViewTest"
   ],
   "window":{
     "backgroundTextStyle":"light",
